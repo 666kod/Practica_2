@@ -1,0 +1,43 @@
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.exe.config
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.exe
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.pdb
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.Properties.Resources.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.start_menu.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormCreat.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormCreat2.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormOpen.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormOpen2.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.info.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Приемная комиссия.exe
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Приемная комиссия.pdb
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.exe.config
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.exe
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.pdb
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.Properties.Resources.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.start_menu.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormCreat.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormCreat2.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormOpen.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormOpen2.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.info.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Приемная комиссия.exe
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Приемная комиссия.pdb
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.exe.config
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.exe
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Release\Приемная комиссия.pdb
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.csproj.AssemblyReference.cache
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.Properties.Resources.resources
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.start_menu.resources
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormCreat.resources
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormCreat2.resources
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormOpen.resources
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.FormOpen2.resources
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.View.info.resources
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.csproj.GenerateResource.cache
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Студент_комиссия.csproj.CoreCompileInputs.cache
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Приемная комиссия.exe
+F:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Release\Приемная комиссия.pdb

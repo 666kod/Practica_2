@@ -1,0 +1,92 @@
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe.config
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.pdb
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.AssemblyReference.cache
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.Properties.Resources.resources
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.GenerateResource.cache
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.CoreCompileInputs.cache
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.exe
+E:\Проект_Рахматулин\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.pdb
+E:\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe.config
+E:\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe
+E:\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.pdb
+E:\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csprojAssemblyReference.cache
+E:\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.Properties.Resources.resources
+E:\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.GenerateResource.cache
+E:\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.exe
+E:\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.pdb
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe.config
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.pdb
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.Properties.Resources.resources
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.start_menu.resources
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat.resources
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.exe
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.pdb
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen.resources
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormHelp.resources
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormRazrab.resources
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe.config
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.pdb
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.Properties.Resources.resources
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.start_menu.resources
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat.resources
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormHelp.resources
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen.resources
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormRazrab.resources
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.exe
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.pdb
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat2.resources
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat2.resources
+C:\Users\stud\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen2.resources
+C:\Users\eduar\Desktop\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen2.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe.config
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.exe
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Студент_комиссия.pdb
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csprojAssemblyReference.cache
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.Properties.Resources.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.start_menu.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat2.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormHelp.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen2.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormRazrab.resources
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.GenerateResource.cache
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.exe
+E:\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.pdb
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.Properties.Resources.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.start_menu.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat2.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen2.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.Properties.Resources.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.start_menu.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormCreat2.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.FormOpen2.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Приемная комиссия.exe.config
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Приемная комиссия.exe
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Приемная комиссия.pdb
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.info.resources
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Приемная комиссия.exe
+C:\Users\eduar\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Приемная комиссия.pdb
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Приемная комиссия.exe.config
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Приемная комиссия.exe
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\bin\Debug\Приемная комиссия.pdb
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Студент_комиссия.View.info.resources
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Приемная комиссия.exe
+C:\Users\stud\Desktop\!!!!!!!!Курсовая\Студент_комиссия\Студент_комиссия\obj\Debug\Приемная комиссия.pdb
